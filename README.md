@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm currently working on a Tetris fullstack website using the MERN stack
+- I am a student at Boston University studying math and computer science
+
 <!--
 **NathanStanislavsky/NathanStanislavsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
