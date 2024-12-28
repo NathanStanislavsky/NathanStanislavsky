@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- I'm currently working on a Tetris fullstack website using the MERN stack
+- I'm currently working on a Bitboard Chess Engine in C++
+- I recently completed building a fullstack Tetris website using MERN
 - I am a student at Boston University studying math and computer science
 
 <!--
