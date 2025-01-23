@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-- I'm currently working on a Bitboard Chess Engine in C++
-- I recently completed building a fullstack Tetris website using MERN
-- I am a student at Boston University studying math and computer science
+My name is Nathan Stanislavsky and I am student at Boston University studying math and computer science. I am currently working on a workout tracker app using Sveltekit, Node, Neon Serverless Postgres, Prisma, and Tailwind. My last project, which I would like to revisit, is a bitboard chess engine written in C++, and before that was a fullstack Tetris web application using MongoDB, Express, React and Node.
 
 <!--
 **NathanStanislavsky/NathanStanislavsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
