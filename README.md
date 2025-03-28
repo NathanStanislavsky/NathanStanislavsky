@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Nathan Stanislavsky and I am student at Boston University studying math and computer science. I am currently working on a workout tracker app using Sveltekit, Node, Neon Serverless Postgres, Prisma, and Tailwind. My last project, which I would like to revisit, is a bitboard chess engine written in C++, and before that was a fullstack Tetris web application using MongoDB, Express, React and Node.
+My name is Nathan Stanislavsky and I am student at Boston University studying math and computer science. I am currently working on PastryChef which uses ingredients you input to find relevant recipes. I am developing this using my favorite tech stack -- Sveltekit, Node.js, Postgres, and Tailwind. My last projects include a workout tracker, tetris web application using the MERN stack and a chess engine written in C++. I'm excited to continue learning and expanding my skillset in full stack development.
 
 <!--
 **NathanStanislavsky/NathanStanislavsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
