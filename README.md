@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Nathan Stanislavsky and I am student at Boston University studying math and computer science. I am currently working on PantryChef which uses ingredients you input to find relevant recipes. I am developing this using my favorite tech stack -- Sveltekit, Node.js, Postgres, and Tailwind. I'm excited to continue learning and expanding my skillset in full stack development.
+My name is Nathan Stanislavsky and I am student at Boston University studying math and computer science. I am currently building a Log-Structured Merge-Tree (LSM) storage engine in C++. I'm excited to continue learning and expanding my skillset in backend development.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
